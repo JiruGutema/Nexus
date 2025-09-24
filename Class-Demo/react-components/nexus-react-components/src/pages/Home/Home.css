@@ -1,0 +1,18 @@
+.home .home-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.home .status-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.home .recentTasks {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+    
+}

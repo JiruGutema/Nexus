@@ -1,0 +1,20 @@
+.status-card {
+    width: 200px;
+    border-radius: 5px;
+    box-shadow: 0 0 2px gray; 
+    padding: 5px;
+    margin: 10px;
+    border-left: 4px solid red;
+
+}
+.status-card:hover {
+ box-shadow: 0 0 5px gray;
+ transform: scale(1.09); 
+}
+
+.status-card .number {
+    font-size: 50px;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+}

@@ -1,0 +1,12 @@
+.card {
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 0 0 2px gray; 
+    padding: 5px;
+    margin: 10px;
+
+}
+.card:hover {
+ box-shadow: 0 0 5px gray;
+ transform: scale(1.09); 
+}

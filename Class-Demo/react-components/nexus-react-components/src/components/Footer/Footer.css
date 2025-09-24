@@ -1,0 +1,21 @@
+.footer {
+    width: 100%;
+    background-color: skyblue;
+    font-size: 20px;
+    Padding: 10px;
+    margin: auto;
+    
+}
+
+.footer ul {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: center;
+}
+
+.footer ul li {
+    background: red;
+    padding: 5px;
+    border-radius: 5px;
+}
